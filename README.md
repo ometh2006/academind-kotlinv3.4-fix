@@ -26,16 +26,6 @@ A clean, offline-first study tracker built with Kotlin and Jetpack Compose. Acad
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here to showcase the UI
-
-```
-/app/screenshots/dashboard.png
-/app/screenshots/subjects.png
-/app/screenshots/analytics.png
-```
-
 ---
 
 ## 🚀 Getting Started
@@ -113,21 +103,10 @@ Contributions, suggestions, and improvements are welcome.
 
 ---
 
-## 📄 License
-
-Specify your license here (MIT recommended for open source).
-
-```
-MIT License
-```
-
----
 
 ## 👤 Author
 
-**ometh2006**
-Student Developer · Android Enthusiast
-
+**ometh virusara**
 ---
 
 ## ⭐ Support
