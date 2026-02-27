@@ -11,7 +11,6 @@
 <p align="center">
   A fully offline, native Android app to track your academic subjects, log test results, and visualise your study performance with deep analytics — built entirely with Jetpack Compose and Material 3.
 </p>
----
 
 ## ✨ Features
 
