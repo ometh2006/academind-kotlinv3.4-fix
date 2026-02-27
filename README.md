@@ -1,7 +1,16 @@
 # AcadeMind · Study Dashboard (Android)
 
-A clean, offline-first study tracker built with Kotlin and Jetpack Compose. AcadeMind helps students manage subjects, record test scores, and visualize academic performance — all without requiring an internet connection.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android%206.0%2B-brightgreen?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Language-Kotlin%202.0-blueviolet?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-blue?style=for-the-badge&logo=jetpackcompose" />
+  <img src="https://img.shields.io/badge/Database-Room-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
 
+<p align="center">
+  A fully offline, native Android app to track your academic subjects, log test results, and visualise your study performance with deep analytics — built entirely with Jetpack Compose and Material 3.
+</p>
 ---
 
 ## ✨ Features
